@@ -7,7 +7,7 @@
 
 >Enunciado:
 >Has recibido un proyecto con las funciones de la evaluación  continuada 2. El proyecto de dos carpetas:
->   **SRC:** Contiene los archivos  **arrays.php** donde están todas las funciones implementadas.
+>   **SRC:** Contiene los archivos  *arrays.php* donde están todas las funciones implementadas.
 >   **DOC:** Es una carpeta vacía reservada para añadir la documentación del código.
 
 >Se pide que, mediante [phpdocumentor](http://www.https://www.phpdoc.org/), generes la documentación del proyecto.
